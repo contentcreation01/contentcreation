@@ -8,6 +8,30 @@ __pycache__/
 *$py.class
 *.tmp
 
+# ==============================================================================
+# ⚠️  CREATOR CONTENT PROTECTION — Downloaded creator data stays LOCAL ONLY
+# ==============================================================================
+# These folders contain extracted transcripts, captions, cover thumbnails,
+# and metadata from real creators (Luke, Chandler, Cindy, Sagar, etc.)
+# This content belongs to the original creators — NEVER commit it publicly.
+# Your friends will download their own content using the pipeline tools.
+Instagram/Reels/*/
+YouTube/Shorts/*/
+YouTube/Videos/*/
+TikTok/*/
+Twitter/*/
+# Allow .gitkeep files to preserve folder structure
+!Instagram/Reels/.gitkeep
+!Instagram/Reels/Strategy_Cracks/.gitkeep
+!Instagram/Posts/.gitkeep
+!YouTube/Shorts/.gitkeep
+!YouTube/Videos/.gitkeep
+!TikTok/.gitkeep
+!Twitter/.gitkeep
+# Allow Strategy_Cracks session folders (your own AI-generated output)
+!Instagram/Reels/Strategy_Cracks/
+Instagram/Reels/Strategy_Cracks/*/
+
 # Operating system files
 .DS_Store
 .DS_Store?
