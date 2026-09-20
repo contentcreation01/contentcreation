@@ -1,0 +1,72 @@
+{
+  "session_id": "20260920_131049_445_JARVIS_Session",
+  "timestamp": "2026-09-20T13:10:49.445708",
+  "user_prompt": "Synthesize all 6 videos into an ultimate viral benchmark",
+  "cta_keyword": "JARVIS",
+  "selected_deliverables": [
+    "script",
+    "edl",
+    "ai",
+    "funnel",
+    "hooks"
+  ],
+  "saved_files": [
+    "01_strategy_forensic_breakdown.md",
+    "02_teleprompter_script.txt",
+    "03_timeline_markers.edl",
+    "04_ai_video_prompts.md",
+    "05_caption_and_manychat_funnel.md",
+    "06_hook_rewrites.md"
+  ],
+  "sources": [
+    {
+      "rel_path": "Instagram/Reels/Jarvis_Viral_Evolution (lukebuildsai - chandler - cindiezhu)/01_Luke_Builds_AI_Original",
+      "id": "Instagram/Reels/Jarvis_Viral_Evolution (lukebuildsai - chandler - cindiezhu)/01_Luke_Builds_AI_Original",
+      "creator": "External Creator",
+      "title": "External Reel (Jarvis_Viral_Evolution (lukebuildsai - chandler - cindiezhu))",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "rel_path": "Instagram/Reels/Jarvis_Viral_Evolution (lukebuildsai - chandler - cindiezhu)/02_Chandler_Ryu_Iteration",
+      "id": "Instagram/Reels/Jarvis_Viral_Evolution (lukebuildsai - chandler - cindiezhu)/02_Chandler_Ryu_Iteration",
+      "creator": "External Creator",
+      "title": "External Reel (Jarvis_Viral_Evolution (lukebuildsai - chandler - cindiezhu))",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "rel_path": "Instagram/Reels/Jarvis_Viral_Evolution (lukebuildsai - chandler - cindiezhu)/03_Cindy_Zhu_Iteration",
+      "id": "Instagram/Reels/Jarvis_Viral_Evolution (lukebuildsai - chandler - cindiezhu)/03_Cindy_Zhu_Iteration",
+      "creator": "External Creator",
+      "title": "External Reel (Jarvis_Viral_Evolution (lukebuildsai - chandler - cindiezhu))",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "rel_path": "Instagram/Reels/sagar_builds - Building Ultron in public (DayJ17OTwvx)",
+      "id": "sagar_builds - Building Ultron in public (DayJ17OTwvx)",
+      "creator": "Sagar Tamang",
+      "title": "Video by sagar_builds",
+      "likes": 265804,
+      "comments": 17005
+    },
+    {
+      "rel_path": "Instagram/Reels/Jarvis_Viral_Evolution (lukebuildsai - chandler - cindiezhu)/03_Iteration_cindiezhu (Da0ev1FJanT)",
+      "id": "03_Iteration_cindiezhu (Da0ev1FJanT)",
+      "creator": "Cindy Zhu \ud83c\udf31",
+      "title": "Video by cindiezhu",
+      "likes": 51213,
+      "comments": 27583
+    },
+    {
+      "rel_path": "Instagram/Reels/Jarvis_Viral_Evolution (lukebuildsai - chandler - cindiezhu)/02_Iteration_chandlerintelligence (DaebyH0xIDQ)",
+      "id": "02_Iteration_chandlerintelligence (DaebyH0xIDQ)",
+      "creator": "Chanyoung Ryu (Chandler)",
+      "title": "Video by chandlerintelligence",
+      "likes": 271174,
+      "comments": 42638
+    }
+  ],
+  "relative_directory": "Instagram/Reels/Strategy_Cracks/20260920_131049_445_JARVIS_Session"
+}
