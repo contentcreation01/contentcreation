@@ -1,0 +1,36 @@
+{
+  "session_id": "20260920_132217_399_JARVIS_Session",
+  "timestamp": "2026-09-20T13:22:17.399144",
+  "user_prompt": "explain Cindy's 3-second hook retention mechanics and pattern interrupts",
+  "cta_keyword": "JARVIS",
+  "selected_deliverables": [
+    "script",
+    "edl",
+    "ai",
+    "funnel",
+    "hooks"
+  ],
+  "saved_files": [
+    "01_strategy_forensic_breakdown.md",
+    "02_teleprompter_script.txt",
+    "02_script_english.txt",
+    "02_script_tanglish.txt",
+    "02_script_mixed_tamil_english.txt",
+    "02_script_tamil_native.txt",
+    "03_timeline_markers.edl",
+    "04_ai_video_prompts.md",
+    "05_caption_and_manychat_funnel.md",
+    "06_hook_rewrites.md"
+  ],
+  "sources": [
+    {
+      "rel_path": "Instagram/Reels/Jarvis_Viral_Evolution (lukebuildsai - chandler - cindiezhu)/03_Cindy_Zhu_Iteration",
+      "id": "Instagram/Reels/Jarvis_Viral_Evolution (lukebuildsai - chandler - cindiezhu)/03_Cindy_Zhu_Iteration",
+      "creator": "External Creator",
+      "title": "External Reel (Jarvis_Viral_Evolution (lukebuildsai - chandler - cindiezhu))",
+      "likes": 0,
+      "comments": 0
+    }
+  ],
+  "relative_directory": "Instagram/Reels/Strategy_Cracks/20260920_132217_399_JARVIS_Session"
+}
